@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(58, 101, 20);
+  background-image: url("https://media.giphy.com/media/aCKMaeduKfFXG/source.gif")
+}
+
+p {
+  color: #aec61f;
+}
+
+li {
+  color: #007c89;
+}
+
+a {
+  color: #aec61f;
+}
+
+h1 {
+  color: rgb(185, 10, 10);
+}
+
+button {
+
+}
